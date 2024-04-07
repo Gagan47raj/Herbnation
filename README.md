@@ -27,7 +27,7 @@ This project is a robust e-commerce platform developed for the sale and manageme
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/ayurvedic-ecommerce.git
+   git clone https://github.com/Gagan47raj/Herbnation.git
    ```
 
 2. Set up the project in your favorite IDE.
